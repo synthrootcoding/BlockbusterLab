@@ -1,0 +1,13 @@
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.csprojAssemblyReference.cache
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.AssemblyInfoInputs.cache
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.AssemblyInfo.cs
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.csproj.CoreCompileInputs.cache
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.exe
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.deps.json
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.runtimeconfig.json
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.runtimeconfig.dev.json
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.dll
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\bin\Debug\netcoreapp3.1\BlockbusterLabRedux.pdb
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.dll
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.pdb
+C:\Users\synth\source\repos\BlockbusterLabRedux\BlockbusterLabRedux\obj\Debug\netcoreapp3.1\BlockbusterLabRedux.genruntimeconfig.cache
